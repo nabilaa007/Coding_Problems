@@ -1,2 +1,2 @@
 # Coding_Problems
-Some of My Solved Codes
+A collection of my programming codes and practice problems written while learning and improving my coding skills.
